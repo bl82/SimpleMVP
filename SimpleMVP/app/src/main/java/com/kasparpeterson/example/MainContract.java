@@ -6,7 +6,7 @@ import com.kasparpeterson.simplemvp.MVPBaseView;
 /**
  * Created by kaspar on 02/12/2016.
  */
-interface MainMVP {
+interface MainContract {
 
     // Presenter -> View
     interface ViewOperations extends MVPBaseView {
